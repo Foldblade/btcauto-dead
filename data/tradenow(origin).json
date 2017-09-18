@@ -1,0 +1,52 @@
+{
+    "time": "1970/1/1  0:00:00",
+    "total_asset": 3000,
+    "btc": {
+        "type": "buy",
+        "buy_price": 18000,
+        "sell_price": 18100,
+        "amount": 0.1,
+        "buy_id": 8888888888,
+        "sell_id": 8888888888
+    },
+    "eth": {
+        "type": "buy",
+        "buy_price": 18000,
+        "sell_price": 18100,
+        "amount": 0.1,
+        "buy_id": 8888888888,
+        "sell_id": 8888888888
+    },
+    "etc": {
+        "type": "buy",
+        "buy_price": 18000,
+        "sell_price": 18100,
+        "amount": 0.1,
+        "buy_id": 8888888888,
+        "sell_id": 8888888888
+    },
+    "ltc": {
+        "type": "buy",
+        "buy_price": 18000,
+        "sell_price": 18100,
+        "amount": 0.1,
+        "buy_id": 8888888888,
+        "sell_id": 8888888888
+    },
+    "doge": {
+        "type": "buy",
+        "buy_price": 18000,
+        "sell_price": 18100,
+        "amount": 0.1,
+        "buy_id": 8888888888,
+        "sell_id": 8888888888
+    },
+    "ybc": {
+        "type": "buy",
+        "buy_price": 18000,
+        "sell_price": 18100,
+        "amount": 0.1,
+        "buy_id": 8888888888,
+        "sell_id": 8888888888
+    }
+}
